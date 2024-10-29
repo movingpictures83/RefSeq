@@ -1,0 +1,2 @@
+Prefix plugins/RefSeq/example/
+Plugin RefSeq inputfile parameters.refseq.txt outputfile RBP-v-RefSeq_target_matrix.txt
